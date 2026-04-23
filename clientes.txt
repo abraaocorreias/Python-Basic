@@ -1,0 +1,1 @@
+[{"id_cliente": 1, "nome": "Abra\u00e3o", "telefone": "82 99999999", "locacoes_ativas": 0, "total_locacoes": 1}]
